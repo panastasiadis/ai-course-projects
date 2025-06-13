@@ -1,0 +1,140 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Logs
+*.log
+logs/
+log/
+
+# Local development settings
+.env
+.env.local
+.env.*.local
+
+# Dataset files
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.zip
+*.tar
+*.rar
+*.7z
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+
+# Model files
+*.h5
+*.hdf5
+*.pkl
+*.model
+*.joblib
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.tfl
+*.lite
+*.pb
+*.savedmodel
+
+# TensorFlow
+.tensorboard/
+tfevents.*
+checkpoint
+*.ckpt
+*.ckpt.*
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
+# Project specific
+project1/input/
+project2/dataset.zip
+project2/my-photos/
+project3/deliverable/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~.nib 
